@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T13:31:50.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Whale/2.8.108.15 Safari/537.36" etag="O3yk1JwtLCaDGa889OTT" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-14T14:35:56.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Whale/2.8.108.15 Safari/537.36" etag="3ual8d5XKKsgfHPnaQKC" version="14.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="erd">
     <mxGraphModel dx="896" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -638,9 +638,6 @@
               <mxPoint x="1260" y="380" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4kZ1tZv2CZHf45DVoTQw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERone;endFill=0;startArrow=ERzeroToMany;startFill=1;" parent="1" source="OfZ1srBihN4PGDI9Twkp-45" target="C-vyLk0tnHw3VtMMgP7b-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OfZ1srBihN4PGDI9Twkp-45" value="모임통장 초대장" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="410" width="300" height="340" as="geometry" />
